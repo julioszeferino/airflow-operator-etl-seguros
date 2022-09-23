@@ -10,4 +10,4 @@ Baixe a imagem do container:
 ```
 docker pull julioszeferino/docker-operator-etl:latest
 ```
-Siga as intrucoes de execucao do pipeline de dados deste [projeto](https://julioszeferino.github.io/banco_de_dados_dimensional/)
+Siga as intrucoes de execucao do pipeline de dados deste [projeto](https://julioszeferino.github.io/banco_dados_dimensional/)
